@@ -17,9 +17,7 @@ This repository contains the complete analytical pipeline for the project, mappi
 2. Install dependencies: `pip install -r requirements.txt`
 3. Run the notebook located in the `notebooks/` directory.
 
-## 👥 Authors
+## Authors
 - Catarina Silva
 - João Alexandre
 
-## 📄 License
-This project is licensed under the MIT License.

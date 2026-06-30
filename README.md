@@ -15,7 +15,7 @@ This repository contains the complete analytical pipeline for the project, mappi
 ## How to Run the Code
 1. Clone the repository: `git clone https://github.com/joaoalexandre14/AVCAD_final_project/tree/main`
 2. Install dependencies: `pip install -r requirements.txt`
-3. Run the notebook located in the `notebooks/` directory.
+3. Run the notebook projetoAVCAD.ipynb
 
 ## Authors
 - Catarina Silva

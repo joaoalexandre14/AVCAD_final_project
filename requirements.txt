@@ -1,0 +1,12 @@
+# Core Data Manipulation
+pandas==2.2.2
+numpy==1.26.4
+
+# Data Visualization
+matplotlib==3.9.0
+seaborn==0.13.2
+plotly==5.22.0
+
+# Statistical & Econometric Modeling
+scipy==1.13.1
+statsmodels==0.14.2

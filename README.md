@@ -13,7 +13,7 @@ This repository contains the complete analytical pipeline for the project, mappi
 - **The Education Barrier:** While aging shifts land use towards permanent crops, low formal education acts as a conservative structural counterweight, anchoring older cohorts to traditional annual cycles due to technological barriers.
 
 ## How to Run the Code
-1. Clone the repository: `git clone https://github.com/your-username/repository-name.git`
+1. Clone the repository: `git clone https://github.com/joaoalexandre14/AVCAD_final_project/tree/main`
 2. Install dependencies: `pip install -r requirements.txt`
 3. Run the notebook located in the `notebooks/` directory.
 
